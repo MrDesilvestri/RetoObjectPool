@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7640777-c07b-4bcf-95e1-5496db11b932" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RetoObjectPool.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/administracion/ControlTareas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/administracion/InterfaceGestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fabrica/ControlTareasFabrica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fabrica/InterfaceFabrica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/implementacion/AbstraccionObjectPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/implementacion/InterfaceObjectPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/implementacion/ManejoExcepciones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/implementacion/PoolHilos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/patronobjectpool/PatronObjectPoolMain.java" afterDir="false" />
-    </list>
+    <list default="true" id="c7640777-c07b-4bcf-95e1-5496db11b932" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +21,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MrDesilvestri/RetoObjectPool.git",
+    "accountId": "7f6a4e07-c65d-401c-81d8-9e41d6dea8e4"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -50,8 +40,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.PatronObjectPoolMain.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -78,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724196079440</updated>
-      <workItem from="1724196080654" duration="1306000" />
+      <workItem from="1724196080654" duration="1635000" />
     </task>
     <servers />
   </component>
